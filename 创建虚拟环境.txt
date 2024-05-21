@@ -1,0 +1,5 @@
+pip install --upgrade 包名==需要的版本 -i https://pypi.tuna.tsinghua.edu.cn/simple   （清华源）
+conda create -n 虚拟环境名 python==版本
+conda env list  查看所有虚拟环境
+conda activate 虚拟环境名   切换虚拟环境
+
